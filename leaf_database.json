@@ -1,0 +1,449 @@
+[
+    {
+      "hindiName": "कुलंजन",
+      "sanskritName": "उल्क, उलगण",
+      "englishName": "Alpinia Galanga",
+      "latinName": "Alpinia Galanga (Rasna)",
+      "shortDescription": "Alpinia galanga, also known as greater galangal, is a perennial herb widely used in cooking and traditional medicine.",
+      "longDescription": "Alpinia galanga, or greater galangal, is a plant native to Southeast Asia. It is a rhizomatous herb with a pungent and spicy taste, often used as a spice in Southeast Asian cuisine. In traditional medicine, it is used for its anti-inflammatory and digestive properties, as well as its potential antimicrobial effects.",
+      "medicinalUses": [
+        "Aids digestion and helps relieve indigestion and bloating.",
+        "Has anti-inflammatory and antimicrobial properties.",
+        "May help manage arthritis and joint pain."
+      ]
+    },
+    {
+      "hindiName": "चौलाई",
+      "sanskritName": "शाकमाकंद",
+      "englishName": "Amaranthus Viridis",
+      "latinName": "Amaranthus Viridis (Arive-Dantu)",
+      "shortDescription": "Amaranthus viridis, also known as green amaranth, is a leafy vegetable with nutritional and medicinal benefits.",
+      "longDescription": "Amaranthus viridis is a leafy vegetable known for its high nutritional content, including vitamins, minerals, and dietary fiber. It is used in traditional medicine for its anti-inflammatory and antioxidant properties. It is also known for its potential to support digestive health and reduce inflammation.",
+      "medicinalUses": [
+        "Supports digestive health and relieves constipation.",
+        "Has anti-inflammatory and antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "कटहल",
+      "sanskritName": "पणस",
+      "englishName": "Artocarpus Heterophyllus",
+      "latinName": "Artocarpus Heterophyllus (Jackfruit)",
+      "shortDescription": "Artocarpus heterophyllus, also known as jackfruit, is a tropical fruit known for its nutritional and medicinal benefits.",
+      "longDescription": "Jackfruit is a large, tropical fruit with a sweet flavor and unique texture. It is rich in vitamins, minerals, and antioxidants. In traditional medicine, jackfruit is used to support digestive health and boost immunity. The fruit, seeds, and leaves all have potential health benefits.",
+      "medicinalUses": [
+        "Supports digestive health and aids in weight management.",
+        "Boosts immunity and provides antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "नीम",
+      "sanskritName": "नीम",
+      "englishName": "Azadirachta Indica",
+      "latinName": "Azadirachta Indica (Neem)",
+      "shortDescription": "Azadirachta indica, also known as neem, is a tree with numerous medicinal properties.",
+      "longDescription": "Neem is a tree native to India and other parts of Southeast Asia. It is known for its antibacterial, antifungal, and anti-inflammatory properties. Neem is used in traditional medicine to treat skin conditions, improve dental health, and boost immunity. Neem oil and leaves are commonly used in various treatments.",
+      "medicinalUses": [
+        "Has antibacterial and antifungal properties for skin and health issues.",
+        "Supports dental health and oral hygiene.",
+        "Boosts immunity and supports overall health."
+      ]
+    },
+    {
+      "hindiName": "पोई",
+      "sanskritName": "पोई",
+      "englishName": "Basella Alba",
+      "latinName": "Basella Alba (Basale)",
+      "shortDescription": "Basella alba, also known as Malabar spinach, is a leafy vegetable with nutritional and medicinal properties.",
+      "longDescription": "Basella alba is a fast-growing, perennial vine native to tropical Asia. The leaves are rich in vitamins, minerals, and antioxidants. In traditional medicine, it is used for its anti-inflammatory and laxative properties, as well as its potential to support digestive health.",
+      "medicinalUses": [
+        "Supports digestive health and relieves constipation.",
+        "Has anti-inflammatory and antioxidant properties.",
+        "May help boost immunity."
+      ]
+    },
+    {
+      "hindiName": "सरसों",
+      "sanskritName": "राई",
+      "englishName": "Brassica Juncea (Indian Mustard)",
+      "latinName": "Brassica juncea",
+      "shortDescription": "Brassica juncea, also known as Indian mustard, is a plant known for its culinary and medicinal uses.",
+      "longDescription": "Brassica juncea is a plant native to the Indian subcontinent and is known for its pungent seeds, which are used to make mustard oil and condiments. The plant contains antioxidants and anti-inflammatory properties and is used in traditional medicine to support digestive health and overall wellness.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Contains antioxidants and anti-inflammatory properties.",
+        "May help relieve pain and inflammation."
+      ]
+    },
+    {
+      "hindiName": "करौंदा",
+      "sanskritName": "अलुकालि",
+      "englishName": "Carissa Carandas",
+      "latinName": "Carissa Carandas (Karanda)",
+      "shortDescription": "Carissa carandas, also known as karanda, is a shrub known for its edible fruit and medicinal uses.",
+      "longDescription": "Carissa carandas is a shrub native to India and Southeast Asia, known for its small, tart fruits. The fruit is rich in vitamins and minerals and has potential health benefits. In traditional medicine, it is used for its anti-inflammatory and digestive properties.",
+      "medicinalUses": [
+        "Supports digestive health and relieves bloating.",
+        "Has anti-inflammatory and antioxidant properties.",
+        "May help improve heart health."
+      ]
+    },
+    {
+      "hindiName": "नींबू",
+      "sanskritName": "निम्बुकम्",
+      "englishName": "Citrus Limon",
+      "latinName": "Citrus Limon (Lemon)",
+      "shortDescription": "Citrus limon, also known as lemon, is a fruit known for its vitamin C content and medicinal uses.",
+      "longDescription": "Citrus limon is a fruit known for its bright yellow color and sour taste. It is rich in vitamin C and antioxidants and is used in cooking and traditional medicine. Lemon juice supports digestive health, boosts immunity, and helps detoxify the body.",
+      "medicinalUses": [
+        "Supports digestive health and detoxification.",
+        "Boosts immunity due to its high vitamin C content.",
+        "Has antioxidant properties and aids in weight management."
+      ]
+    },
+    {
+      "hindiName": "अनजीर",
+      "sanskritName": "प्लक्ष",
+      "englishName": "Ficus Auriculata",
+      "latinName": "Ficus Auriculata (Roxburgh fig)",
+      "shortDescription": "Ficus auriculata, also known as the elephant ear fig, is a tree known for its edible fruits and medicinal uses.",
+      "longDescription": "Ficus auriculata is a tree native to Southeast Asia. The fruits are large and edible, with a sweet taste. In traditional medicine, it is used for its anti-inflammatory and digestive properties. The leaves and fruits may have potential health benefits, including supporting heart health.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Has anti-inflammatory and antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "पीपल",
+      "sanskritName": "अश्वत्थ",
+      "englishName": "Ficus Religiosa (Peepal Tree)",
+      "latinName": "Ficus religiosa",
+      "shortDescription": "Ficus religiosa, also known as the sacred fig or peepal, is a tree with spiritual and medicinal significance.",
+      "longDescription": "Ficus religiosa, also known as the sacred fig or peepal tree, is a large tree native to India and Southeast Asia. It holds spiritual significance in Hindu and Buddhist traditions. The tree has medicinal uses, including its potential to support respiratory health and improve digestive function.",
+      "medicinalUses": [
+        "Supports respiratory health and relieves asthma symptoms.",
+        "Aids in digestion and supports overall digestive health.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "गुड़हल",
+      "sanskritName": "जपापुष्प",
+      "englishName": "Hibiscus Rosa-Sinensis",
+      "latinName": "Hibiscus Rosa-sinensis",
+      "shortDescription": "Hibiscus rosa-sinensis, also known as Chinese hibiscus, is a shrub known for its bright flowers and medicinal uses.",
+      "longDescription": "Hibiscus rosa-sinensis is a shrub with large, bright flowers. It is known for its potential health benefits, including supporting heart health and aiding digestion. Hibiscus tea is a popular beverage known for its refreshing taste and antioxidant properties.",
+      "medicinalUses": [
+        "Supports heart health and may help lower blood pressure.",
+        "Aids in digestion and relieves indigestion.",
+        "Contains antioxidants and anti-inflammatory properties."
+      ]
+    },
+    {
+      "hindiName": "चमेली",
+      "sanskritName": "मालती",
+      "englishName": "Jasmine",
+      "latinName": "Jasminum (Jasmine)",
+      "shortDescription": "Jasmine, known for its fragrant flowers, is a plant with medicinal properties.",
+      "longDescription": "Jasmine is a plant known for its fragrant, white flowers. It is used in traditional medicine for its calming and soothing effects. Jasmine tea is a popular beverage known for its aroma and potential health benefits, including aiding digestion and promoting relaxation.",
+      "medicinalUses": [
+        "Promotes relaxation and reduces stress and anxiety.",
+        "Aids in digestion and supports digestive health.",
+        "May help improve skin health when used topically."
+      ]
+    },
+    {
+      "hindiName": "आम",
+      "sanskritName": "आम्र",
+      "englishName": "Mangifera Indica",
+      "latinName": "Mangifera Indica (Mango)",
+      "shortDescription": "Mangifera indica, also known as mango, is a tropical fruit known for its sweet taste and potential health benefits.",
+      "longDescription": "Mangifera indica, or mango, is a tropical fruit native to South Asia. It is rich in vitamins, minerals, and antioxidants. Mango is used in traditional medicine to support digestive health, boost immunity, and improve skin health. The fruit is also known for its anti-inflammatory properties.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Boosts immunity and provides antioxidant properties.",
+        "May help improve skin health."
+      ]
+    },
+    {
+      "hindiName": "पुदीना",
+      "sanskritName": "पोथन",
+      "englishName": "Mentha",
+      "latinName": "Mentha (Mint)",
+      "shortDescription": "Mentha, commonly known as mint, is an herb known for its refreshing aroma and medicinal properties.",
+      "longDescription": "Mentha, or mint, is a herbaceous plant known for its refreshing aroma and taste. It is used in cooking and traditional medicine for its digestive and soothing properties. Mint tea is a popular beverage known for its calming effects on the stomach and respiratory system.",
+      "medicinalUses": [
+        "Aids digestion and relieves indigestion and bloating.",
+        "Provides respiratory relief and supports respiratory health.",
+        "May help improve skin health when used topically."
+      ]
+    },
+    {
+      "hindiName": "सहजन",
+      "sanskritName": "शिग्रु",
+      "englishName": "Moringa Oleifera",
+      "latinName": "Moringa Oleifera (Drumstick)",
+      "shortDescription": "Moringa oleifera, also known as drumstick tree, is a plant with numerous nutritional and medicinal benefits.",
+      "longDescription": "Moringa oleifera, or the drumstick tree, is a fast-growing plant known for its high nutritional content, including vitamins, minerals, and antioxidants. It is used in traditional medicine to support overall health, boost immunity, and improve digestive function.",
+      "medicinalUses": [
+        "Boosts immunity and supports overall health.",
+        "Provides anti-inflammatory and antioxidant properties.",
+        "Supports digestive health and aids in digestion."
+      ]
+    },
+    {
+      "hindiName": "सिंगापुर चेरी",
+      "sanskritName": "तुलसी-फली",
+      "englishName": "Muntigia Calabura",
+      "latinName": "Muntingia Calabura (Jamaica Cherry-Gasagase)",
+      "shortDescription": "Muntigia calabura, also known as Singapore cherry, is a plant known for its edible fruits and medicinal uses.",
+      "longDescription": "Muntigia calabura is a plant native to tropical America but widely distributed in other tropical regions. It is known for its small, red, and sweet fruits. In traditional medicine, it is used for its anti-inflammatory and antioxidant properties and its potential to support digestive health.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Has anti-inflammatory and antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "मीठी नीम",
+      "sanskritName": "मुरंगी",
+      "englishName": "Murraya Koenigii",
+      "latinName": "Murraya Koenigii (Curry)",
+      "shortDescription": "Murraya koenigii, also known as curry leaf, is a plant known for its aromatic leaves and medicinal uses.",
+      "longDescription": "Murraya koenigii, or curry leaf, is a plant native to India and Southeast Asia. The aromatic leaves are used in cooking for their unique flavor. In traditional medicine, curry leaves are used to support digestive health and boost immunity. The leaves also have antioxidant properties.",
+      "medicinalUses": [
+        "Supports digestive health and relieves indigestion.",
+        "Boosts immunity and provides antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "कनेर",
+      "sanskritName": "करवीर",
+      "englishName": "Nerium Oleander",
+      "latinName": "Nerium Oleander (Oleander)",
+      "shortDescription": "Nerium oleander, also known as oleander, is a shrub known for its beautiful flowers and potential medicinal uses.",
+      "longDescription": "Nerium oleander is a shrub native to the Mediterranean region, known for its beautiful flowers and potential medicinal uses. The plant contains toxic compounds and should be used with caution. In traditional medicine, it is used for its anti-inflammatory and cardiac properties, but its use should be under medical supervision.",
+      "medicinalUses": [
+        "May have anti-inflammatory properties.",
+        "Has cardiac properties, but its use should be under medical supervision.",
+        "Should be used with caution due to its toxic compounds."
+      ]
+    },
+    {
+      "hindiName": "हरशृंगार",
+      "sanskritName": "शेफालिका",
+      "englishName": "Nyctanthes Arbor-Tristis",
+      "latinName": "Nyctanthes Arbor-tristis (Parijata)",
+      "shortDescription": "Nyctanthes arbor-tristis, also known as night-flowering jasmine, is a plant known for its aromatic flowers and medicinal uses.",
+      "longDescription": "Nyctanthes arbor-tristis is a plant known for its fragrant, night-blooming flowers. In traditional medicine, it is used for its anti-inflammatory and anti-microbial properties. The plant may help relieve joint pain and improve skin health.",
+      "medicinalUses": [
+        "Has anti-inflammatory and anti-microbial properties.",
+        "May help relieve joint pain and arthritis symptoms.",
+        "Supports skin health and may improve complexion."
+      ]
+    },
+    {
+      "hindiName": "तुलसी",
+      "sanskritName": "श्री तुलसी",
+      "englishName": "Ocimum Tenuiflorum",
+      "latinName": "Ocimum Tenuiflorum (Tulsi)",
+      "shortDescription": "Ocimum tenuiflorum, also known as holy basil or tulsi, is a plant with spiritual and medicinal significance.",
+      "longDescription": "Ocimum tenuiflorum, or holy basil, is a plant known for its spiritual and medicinal significance. It is used in traditional medicine for its anti-inflammatory, anti-microbial, and antioxidant properties. Tulsi tea is a popular beverage known for its potential health benefits, including boosting immunity and supporting respiratory health.",
+      "medicinalUses": [
+        "Boosts immunity and supports respiratory health.",
+        "Has anti-inflammatory and anti-microbial properties.",
+        "Aids in digestion and supports digestive health."
+      ]
+    },
+    {
+      "hindiName": "पान",
+      "sanskritName": "पान",
+      "englishName": "Piper Betle",
+      "latinName": "Piper Betle (Betel)",
+      "shortDescription": "Piper betle, also known as betel leaf, is a plant known for its use in cultural and medicinal practices.",
+      "longDescription": "Piper betle, or betel leaf, is a plant native to Southeast Asia. The leaves are often chewed with areca nut and slaked lime for cultural and social purposes. In traditional medicine, betel leaf is used for its digestive, anti-inflammatory, and anti-microbial properties.",
+      "medicinalUses": [
+        "Supports digestive health and relieves indigestion.",
+        "Has anti-inflammatory and anti-microbial properties.",
+        "May help improve oral hygiene and dental health."
+      ]
+    },
+    {
+      "hindiName": "पारिजात",
+      "sanskritName": "हरशृंगार",
+      "englishName": "Nyctanthes arbor-tristis",
+      "latinName": "Nyctanthes arbor-tristis",
+      "shortDescription": "Nyctanthes arbor-tristis, also known as night-flowering jasmine, is a plant known for its aromatic flowers and medicinal uses.",
+      "longDescription": "Nyctanthes arbor-tristis is a plant known for its fragrant, night-blooming flowers. In traditional medicine, it is used for its anti-inflammatory and anti-microbial properties. The plant may help relieve joint pain and improve skin health.",
+      "medicinalUses": [
+        "Has anti-inflammatory and anti-microbial properties.",
+        "May help relieve joint pain and arthritis symptoms.",
+        "Supports skin health and may improve complexion."
+      ]
+    },
+    {
+      "hindiName": "पारिजात",
+      "sanskritName": "हरशृंगार",
+      "englishName": "Nyctanthes arbor-tristis",
+      "latinName": "Nyctanthes arbor-tristis",
+      "shortDescription": "Nyctanthes arbor-tristis, also known as night-flowering jasmine, is a plant known for its aromatic flowers and medicinal uses.",
+      "longDescription": "Nyctanthes arbor-tristis is a plant known for its fragrant, night-blooming flowers. In traditional medicine, it is used for its anti-inflammatory and anti-microbial properties. The plant may help relieve joint pain and improve skin health.",
+      "medicinalUses": [
+        "Has anti-inflammatory and anti-microbial properties.",
+        "May help relieve joint pain and arthritis symptoms.",
+        "Supports skin health and may improve complexion."
+      ]
+    },
+    {
+      "hindiName": "तुलसी",
+      "sanskritName": "श्री तुलसी",
+      "englishName": "Ocimum tenuiflorum",
+      "latinName": "Ocimum tenuiflorum",
+      "shortDescription": "Ocimum tenuiflorum, also known as holy basil or tulsi, is a plant with spiritual and medicinal significance.",
+      "longDescription": "Ocimum tenuiflorum, or holy basil, is a plant known for its spiritual and medicinal significance. It is used in traditional medicine for its anti-inflammatory, anti-microbial, and antioxidant properties. Tulsi tea is a popular beverage known for its potential health benefits, including boosting immunity and supporting respiratory health.",
+      "medicinalUses": [
+        "Boosts immunity and supports respiratory health.",
+        "Has anti-inflammatory and anti-microbial properties.",
+        "Aids in digestion and supports digestive health."
+      ]
+    },
+    {
+      "hindiName": "पान",
+      "sanskritName": "पान",
+      "englishName": "Piper Betle",
+      "latinName": "Piper betle",
+      "shortDescription": "Piper betle, also known as betel leaf, is a plant known for its use in cultural and medicinal practices.",
+      "longDescription": "Piper betle, or betel leaf, is a plant native to Southeast Asia. The leaves are often chewed with areca nut and slaked lime for cultural and social purposes. In traditional medicine, betel leaf is used for its digestive, anti-inflammatory, and anti-microbial properties.",
+      "medicinalUses": [
+        "Supports digestive health and relieves indigestion.",
+        "Has anti-inflammatory and anti-microbial properties.",
+        "May help improve oral hygiene and dental health."
+      ]
+    },
+    {
+      "hindiName": "अजवायन के फूल",
+      "sanskritName": "पुदीना",
+      "englishName": "Plectranthus Amboinicus",
+      "latinName": "Plectranthus Amboinicus (Mexican Mint)",
+      "shortDescription": "Plectranthus amboinicus, also known as Indian borage, is a plant known for its medicinal properties and use in traditional remedies.",
+      "longDescription": "Plectranthus amboinicus, or Indian borage, is a plant native to Southern and Eastern Africa. It is known for its potential health benefits, including its anti-inflammatory and antimicrobial properties. The plant is used in traditional medicine to treat respiratory and digestive issues.",
+      "medicinalUses": [
+        "Supports respiratory health and relieves cough and cold symptoms.",
+        "Has anti-inflammatory and antimicrobial properties.",
+        "Aids in digestion and relieves indigestion."
+      ]
+    },
+    {
+      "hindiName": "कुंडा",
+      "sanskritName": "सुरभी",
+      "englishName": "Pongamia Pinnata",
+      "latinName": "Pongamia Pinnata (Indian Beech)",
+      "shortDescription": "Pongamia pinnata, also known as Indian beech or karanja, is a plant known for its medicinal properties and use in traditional medicine.",
+      "longDescription": "Pongamia pinnata is a tree native to India and Southeast Asia. The plant is known for its seeds, which yield karanja oil used in traditional medicine and cosmetics. Pongamia pinnata has potential health benefits, including anti-inflammatory and antimicrobial properties.",
+      "medicinalUses": [
+        "Has anti-inflammatory and antimicrobial properties.",
+        "Supports skin health and may help relieve skin conditions.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "अमरूद",
+      "sanskritName": "पेरूक",
+      "englishName": "Psidium Guajava",
+      "latinName": "Psidium Guajava (Guava)",
+      "shortDescription": "Psidium guajava, also known as guava, is a tropical fruit known for its nutritional and medicinal properties.",
+      "longDescription": "Psidium guajava is a tropical fruit known for its sweet flavor and high nutritional content, including vitamins, minerals, and dietary fiber. Guava is used in traditional medicine to support digestive health and boost immunity. The fruit also contains antioxidants and anti-inflammatory properties.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Boosts immunity and provides antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "अनार",
+      "sanskritName": "दाडिम",
+      "englishName": "Punica Granatum",
+      "latinName": "Punica Granatum (Pomegranate)",
+      "shortDescription": "Punica granatum, also known as pomegranate, is a fruit known for its antioxidant and medicinal properties.",
+      "longDescription": "Punica granatum, or pomegranate, is a fruit known for its red seeds and sweet-tart flavor. It is rich in antioxidants and vitamins. In traditional medicine, pomegranate is used for its potential to support heart health, improve digestion, and boost immunity.",
+      "medicinalUses": [
+        "Supports heart health and may help lower blood pressure.",
+        "Boosts immunity and provides antioxidant properties.",
+        "Supports digestive health and aids in digestion."
+      ]
+    },
+    {
+      "hindiName": "चंदन",
+      "sanskritName": "चंदन",
+      "englishName": "Santalum Album",
+      "latinName": "Santalum Album (Sandalwood)",
+      "shortDescription": "Santalum album, also known as sandalwood, is a tree known for its fragrant wood and medicinal properties.",
+      "longDescription": "Santalum album, or sandalwood, is a tree known for its fragrant wood and oil. It is used in traditional medicine for its anti-inflammatory and antimicrobial properties. Sandalwood is used in skincare and perfumes for its calming and soothing effects.",
+      "medicinalUses": [
+        "Has anti-inflammatory and antimicrobial properties.",
+        "Supports skin health and may improve complexion.",
+        "Used in aromatherapy for its calming and soothing effects."
+      ]
+    },
+    {
+      "hindiName": "जामुन",
+      "sanskritName": "जम्बू",
+      "englishName": "Syzygium Cumini",
+      "latinName": "Syzygium Cumini (Jamun)",
+      "shortDescription": "Syzygium cumini, also known as jamun or Indian blackberry, is a fruit known for its nutritional and medicinal properties.",
+      "longDescription": "Syzygium cumini, or jamun, is a fruit native to India and Southeast Asia. It is known for its dark purple color and potential health benefits, including its ability to support digestive health and regulate blood sugar levels. In traditional medicine, jamun is used for its anti-inflammatory and antimicrobial properties.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "May help regulate blood sugar levels.",
+        "Has anti-inflammatory and antimicrobial properties."
+      ]
+    },
+    {
+      "hindiName": "जम्बुसा",
+      "sanskritName": "चंपक",
+      "englishName": "Syzygium Jambos",
+      "latinName": "Syzygium Jambos (Rose Apple)",
+      "shortDescription": "Syzygium jambos, also known as rose apple, is a fruit known for its sweet flavor and medicinal properties.",
+      "longDescription": "Syzygium jambos, or rose apple, is a fruit native to Southeast Asia. The fruit is known for its sweet flavor and aroma. In traditional medicine, it is used for its potential health benefits, including supporting digestive health and boosting immunity.",
+      "medicinalUses": [
+        "Supports digestive health and aids in digestion.",
+        "Boosts immunity and provides antioxidant properties.",
+        "May help regulate blood sugar levels."
+      ]
+    },
+    {
+      "hindiName": "चांदनी",
+      "sanskritName": "चंद्रशेखर",
+      "englishName": "Tabernaemontana Divaricata",
+      "latinName": "Tabernaemontana Divaricata (Crape Jasmine)",
+      "shortDescription": "Tabernaemontana divaricata, also known as pinwheel flower, is a plant known for its beautiful white flowers and potential medicinal properties.",
+      "longDescription": "Tabernaemontana divaricata is a plant native to Southeast Asia, known for its beautiful white flowers. In traditional medicine, it is used for its potential to support mental health and relieve anxiety and stress. The plant also has potential anti-inflammatory and analgesic properties.",
+      "medicinalUses": [
+        "May help relieve anxiety and stress.",
+        "Has potential anti-inflammatory and analgesic properties.",
+        "Supports mental health and may improve mood."
+      ]
+    },
+    {
+      "hindiName": "हल्दी",
+      "sanskritName": "हरिद्रा",
+      "englishName": "Curcuma Longa",
+      "latinName": "Curcuma longa",
+      "shortDescription": "Curcuma longa, also known as turmeric, is a plant known for its medicinal properties and culinary uses.",
+      "longDescription": "Curcuma longa, or turmeric, is a plant known for its bright yellow rhizome, which is used as a spice in cooking. Turmeric has potent anti-inflammatory and antioxidant properties and is used in traditional medicine for its potential health benefits, including supporting digestive health and boosting immunity.",
+      "medicinalUses": [
+        "Has anti-inflammatory and antioxidant properties.",
+        "Supports digestive health and aids in digestion.",
+        "Boosts immunity and supports overall health."
+      ]
+    }
+  ]
+  
+ 
+  
+
+  
